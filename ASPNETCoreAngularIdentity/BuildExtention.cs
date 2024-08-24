@@ -1,26 +1,28 @@
 public static class BuildExtension
 {
-public static WebApplication BuildWithSpa(this WebApplicationBuilder builder)
-{
-    var app = builder.Build();
-
-    app.UseRouting();
-
-    app.UseEndpoints(_ => { });
-
-    app.Use((ctx, next) =>
+    public static WebApplication BuildWithSpa(this WebApplicationBuilder builder)
     {
-        if (ctx.Request.Path.StartsWithSegments("/api"))
+        var app = builder.Build();
+
+        app.UseRouting();
+
+        app.UseEndpoints(_ => { });
+
+        app.Use((ctx, next) =>
         {
-            ctx.Response.StatusCode = 404;
-            return Task.CompletedTask;
-        }
+            if (ctx.Request.Path.StartsWithSegments("/api"))
+            {
+                ctx.Response.StatusCode = 404;
+                return Task.CompletedTask;
+            }
 
-        return next();
-    });
+            return next();
+        });
 
-    app.UseSpa(x => x.UseProxyToSpaDevelopmentServer());
 
-    return app
-}
+
+        app.UseSpa(x => x.UseProxyToSpaDevelopmentServer());
+
+        return app;
+    }
 }

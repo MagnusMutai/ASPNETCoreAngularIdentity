@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\George Too\\source\\repos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj": {}
+    "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\George Too\\source\\repos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj": {
+    "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\George Too\\source\\repos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj",
+        "projectUniqueName": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj",
         "projectName": "ASPNETCoreAngularIdentity",
-        "projectPath": "C:\\Users\\George Too\\source\\repos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj",
-        "packagesPath": "C:\\Users\\George Too\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\George Too\\source\\repos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\obj\\",
+        "projectPath": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj",
+        "packagesPath": "C:\\Users\\METRINE\\.nuget\\packages\\",
+        "outputPath": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\George Too\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\METRINE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

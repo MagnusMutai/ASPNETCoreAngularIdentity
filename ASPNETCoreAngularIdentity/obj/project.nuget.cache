@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zS2X/dyz6RM=",
+  "dgSpecHash": "NQmVC8jCqL8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\George Too\\source\\repos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\METRINE\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\8.0.8\\microsoft.aspnetcore.spaservices.extensions.8.0.8.nupkg.sha512",
+    "C:\\Users\\METRINE\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\METRINE\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\METRINE\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\METRINE\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

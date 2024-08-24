@@ -1,0 +1,6 @@
+D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.AssemblyInfoInputs.cache
+D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.AssemblyInfo.cs
+D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.csproj.CoreCompileInputs.cache
+D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.MvcApplicationPartsAssemblyInfo.cache
+D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.sourcelink.json
