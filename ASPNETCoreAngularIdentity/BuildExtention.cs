@@ -21,7 +21,13 @@ public static class BuildExtension
 
 
 
-        app.UseSpa(x => x.UseProxyToSpaDevelopmentServer());
+        // app.UseSpa(x => x.UseProxyToSpaDevelopmentServer("http://localhost:4200"));
+
+    app.UseSpa(spa =>
+    {
+        spa.Options.SourcePath = "Client";  // This should point to your Angular project
+        spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
+    });    
 
         return app;
     }

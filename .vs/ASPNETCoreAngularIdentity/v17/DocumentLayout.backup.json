@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6968841-B51A-4D40-871C-C37E5C998EFB}|ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj|d:\\allrelevantrepos\\aspnetcoreangularidentity\\aspnetcoreangularidentity\\buildextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6968841-B51A-4D40-871C-C37E5C998EFB}|ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj|solutionrelative:aspnetcoreangularidentity\\buildextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6968841-B51A-4D40-871C-C37E5C998EFB}|ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj|d:\\allrelevantrepos\\aspnetcoreangularidentity\\aspnetcoreangularidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6968841-B51A-4D40-871C-C37E5C998EFB}|ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity.csproj|solutionrelative:aspnetcoreangularidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "ASPNETCoreAngularIdentity\\Program.cs",
+              "ToolTip": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\Program.cs",
+              "RelativeToolTip": "ASPNETCoreAngularIdentity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:11:38.373Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -30,6 +52,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildExtention.cs",
+              "DocumentMoniker": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\BuildExtention.cs",
+              "RelativeDocumentMoniker": "ASPNETCoreAngularIdentity\\BuildExtention.cs",
+              "ToolTip": "D:\\AllRelevantRepos\\ASPNETCoreAngularIdentity\\ASPNETCoreAngularIdentity\\BuildExtention.cs",
+              "RelativeToolTip": "ASPNETCoreAngularIdentity\\BuildExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:06:52.006Z",
+              "EditorCaption": ""
             }
           ]
         }
