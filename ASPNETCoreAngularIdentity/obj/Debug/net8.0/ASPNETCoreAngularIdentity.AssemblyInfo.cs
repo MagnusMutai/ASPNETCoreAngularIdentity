@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCoreAngularIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a95ae27970ecdb03ea935432101a2bdd30343144")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b17305808f3228b1e354eb8b80e27636a46e62")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNETCoreAngularIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCoreAngularIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

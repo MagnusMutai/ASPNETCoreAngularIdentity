@@ -7,12 +7,6 @@ D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debu
 D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\obj\Debug\net8.0\ASPNETCoreAngularIdentity.csproj.AssemblyReference.cache
 D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\appsettings.Development.json
 D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\appsettings.json
-D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\Client\angular.json
-D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\Client\package-lock.json
-D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\Client\package.json
-D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\Client\tsconfig.app.json
-D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\Client\tsconfig.json
-D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\Client\tsconfig.spec.json
 D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\ASPNETCoreAngularIdentity.exe
 D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\ASPNETCoreAngularIdentity.deps.json
 D:\AllRelevantRepos\ASPNETCoreAngularIdentity\ASPNETCoreAngularIdentity\bin\Debug\net8.0\ASPNETCoreAngularIdentity.runtimeconfig.json
